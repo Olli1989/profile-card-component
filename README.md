@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/Olli1989/profile-card-component
+- Live Site URL: https://olli1989.github.io/profile-card-component/
 
 ## My process
 
